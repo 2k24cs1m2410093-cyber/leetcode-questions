@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
