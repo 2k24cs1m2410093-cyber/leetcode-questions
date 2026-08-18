@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
