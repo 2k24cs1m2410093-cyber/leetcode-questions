@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
