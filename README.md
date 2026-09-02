@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0016-3sum-closest) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
 ## Tree
