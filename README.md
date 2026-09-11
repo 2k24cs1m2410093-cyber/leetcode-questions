@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
