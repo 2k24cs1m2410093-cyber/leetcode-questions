@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
