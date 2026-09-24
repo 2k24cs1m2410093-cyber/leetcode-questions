@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
