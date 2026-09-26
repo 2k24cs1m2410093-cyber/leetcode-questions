@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
