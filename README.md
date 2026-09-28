@@ -215,4 +215,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0547-number-of-provinces) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
