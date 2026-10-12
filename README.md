@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0463-island-perimeter](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0463-island-perimeter) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
+| [0463-island-perimeter](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0463-island-perimeter) |
 ## Backtracking
 |  |
 | ------- |
@@ -230,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
