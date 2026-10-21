@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0463-island-perimeter) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0389-find-the-difference) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0383-ransom-note) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -252,4 +257,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0202-happy-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
