@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -265,10 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
