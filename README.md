@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0463-island-perimeter) |
+| [0523-continuous-subarray-sum](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0692-top-k-frequent-words) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0692-top-k-frequent-words) |
@@ -301,7 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
