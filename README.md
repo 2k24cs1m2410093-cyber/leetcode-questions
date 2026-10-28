@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0463-island-perimeter) |
+| [0525-contiguous-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0733-flood-fill) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0454-4sum-ii) |
+| [0525-contiguous-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
