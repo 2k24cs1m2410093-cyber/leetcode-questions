@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0692-top-k-frequent-words) |
+| [0940-distinct-subsequences-ii](https://github.com/2k24cs1m2410093-cyber/leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 ## Trie
 |  |
 | ------- |
